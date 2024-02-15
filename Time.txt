@@ -1,4 +1,4 @@
-
+﻿
 A M�e ta ON
 AcheiOfensivo
 Agora Ce ta sabendo
@@ -85,3 +85,192 @@ S�o Martinho Holand�s
 Taip� Chin�s = Alterou s�mbolo
 
 22 x 10 = 220
+
+Nome: Felipe Wennio Moura Dantas
+Código: 89381635
+
+Brasileirão 
+Série A
+
+País = Jogos 
+Afeganistão = 198
+África do Sul = 380 
+Albânia = 462
+Alemão = 518
+Belarus = 552
+
+Reputação : 
+
+Municipal = Série C D do Estadual / 4° Divisão
+Estadual = Série B C do Estadual / Série C BRA
+Regional = Série A B do Estadual / Série B BRA
+Nacional = Série A BRA
+Continental = A com títulos
+Mundial = A com vários títulos
+
+Único arquivo importante numa att de Brasfot é o exe
+Acho que nem o options.bcf é importante
+
+
+Afeganistão = AFG
+África do Sul = AFS
+Albânia = ALB
+Alemanha = ALE
+Andorra = AND
+Angola = ANG
+Anguilla = AIA
+Antiga = ATG
+Curação = CUR
+Arábia Saudita = ARS
+Argélia = ALG
+Argentina = ARG
+Armênia = ARM
+Aruba = ARU
+Austrália = AUS
+Áustria = AUT
+Azerbaijão = AZE
+
+Times :
+
+-40 :
+1-20
+2-20
+
+-80 : 4 Divisão com 20
+
+-112
+20
+20 ( 40 )
+24 ( 64 )
+48 ( 112 )
+
+-108
+1-20
+2-20 ( 40 )
+3-20 ( 60 )
+4-48 ( 108 )
+
+-120
+1-20
+2-20
+3-40
+4-40
+
+-124
+1-20
+2-20 ( 40 )
+3-20 ( 60 )
+4-64 ( 124 )
+
+-128
+1-20
+2-20 ( 40 )
+3-20 ( 60 )
+4-68 ( 128 )
+ou
+1-20
+2-20 ( 40 )
+3-40 ( 80 )
+4-48 ( 128 )
+
+136 :
+1-20
+2-20 ( 40 )
+3-48 ( 88 )
+4-48 ( 136 )
+
+138 :
+20
+22 ( 42 )
+48 ( 90 )
+48 ( 138 )
+
+144
+1-20
+2-20 ( 40 )
+3-40 ( 80 )
+4-64 ( 144 )
+
+-148
+1-20
+2-20 ( 40 )
+3-40 ( 80 )
+4-68  ( 148 ) 
+
+ou 
+
+148
+1-40
+2-20 (60)
+3-20 (80)
+4-68 (148)
+
+-150
+1-
+2-
+3-
+4-
+
+-153
+20
+25 ( 45 )
+40 ( 85 )
+68 ( 153 )
+
+-161
+20
+25
+48
+68
+
+168
+1-20
+2-20 ( 40 )
+3-64 ( 104 )
+4-64 ( 168 )
+
+-172 :
+1-20
+2-20 ( 40 )
+3-64 ( 104 )
+4-68 ( 172 )
+Argentina 188 - 172 = 16 - 4 = Sobra 8
+Portugal 185 - 172 = 13
+-182
+20
+30
+64
+68
+
+Estaduais
+
+6x6x6 
+18 + 20 = 38
+
+6+6 = 12
+20 + 20 = 40 
+52
+
+20 + 
+40 = 60
+60 + 64 = 124
++ 68 = 172
+-Bonaire = 10 times
+
+-São Martinho Francês 
+Liga 21/22 tem 7 equipes 
+Liga 22/23 tem 10, porém 4 desconhecidas ( Só alguns jogadores )
+
+758 Boys
+Belvedere
+C$D Connection = 22/23
+Flames United = 22/23
+FC Soualiga = 22/23
+Funmakers FC = ???
+Hottspurs
+MPC Stars = ???
+Reggae Lions = 22/23
+SCSA Eagle = 22/23
+United Super Stars FC = 22/23
+Veendam FC = ??
+Young Strikers FC = ?? 
