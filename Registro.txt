@@ -1,0 +1,124 @@
+Brasfoot_Registro:
+
+2007
+Update 1.1
+Nome: Pedro Zilio
+Senha: 31687650
+
+Nome: Tania Regina Zanato
+Senha: 90909225
+
+Update 1.2
+Nome: Roque Polga e Cia LTDA
+Senha: 91459200
+
+Update 1.3
+Nome: Lucia Felix da Silva
+Senha: 97464600
+
+Update 1.4
+Nome: Adauto José Gouveia Filho
+Código: 150773950
+
+Usuário:Lauro Ferreira Azevedo Junior
+senha:212999550
+
+Usuário:lucas pasarelli
+senha:147258369
+
+Usuário:Lauro Ferreira Azevedo Junior
+senha:212999550
+
+Usuário:Roberto Soares Veit
+Senha:129978523
+
+Usuário:ferreira costa da silva
+Senha:31546987
+
+Usuário:Lucia Felix da Silva
+Senha:97464600
+
+Usuário:Luiz Antonio Borges Ribeiro
+Senha:19343000
+
+UsuárioPaulo Barbosa da Silva Junior
+Senha:207799350
+
+Nome: Jhonatan Araujo
+Senha: 58496125
+
+2008
+1º Versão
+Nome: Lucia Felix da Silva
+Código: 97464600
+
+Nome: Jhonatan Araujo
+Código: 58496125
+
+Nome: Claudia Maria Spolti Baldissera
+Código: 191252700
+
+Atualização 1
+Nome: Gilberto Aires Monteiro
+Código: 110423460
+
+Nome: Silvana Costa dos Santos
+Código: 117009420
+
+Atualização 2
+Nome: Jose Vinicius Veloso Alves
+Código: 140757320
+
+Nome: Heider do Nascimento Mota
+Código: 122677120
+
+Atualização 3
+Nome: Fatima Meneses da Silva Castro
+Código: 176385300
+
+2022-2023 ( Desligar a internet, abrir o jogo e registrar )
+
+Novidade(s):
+
+- Nova inteligência artificial
+- PC e Android com a mesma extensão (.ban), possibilitando o uso dos mesmos patches nas duas plataformas
+- Copas Regionais (Copa do Nordeste, Copa Verde, Copa Sul-Minas e Copa Rio-SP)
+- Eliminatórias para Copa do Mundo em todos os continentes
+
+Build 1:
+Daniel de sousa
+35946229
+
+Doug Braga
+12345678
+
+Correções Build 0.2:
+- Corrigido o erro do carregamento do sav
+
+Nome: Felipe Wennio Moura Dantas
+Código: 89381635
+
+Correções Build 0.3:
+- Não resertar artilheiros dos regionais
+- Travamento nos sons
+
+Edson Aparecido Oliveira
+45947231
+
+Lucas Garcia Rios
+56057326
+
+Correções Build 0.4:
+- não sendo possível começar o jogo com mais de 9 times humanos.
+- Erros na segunda divisão do campeonato Carioca
+
+Por padrão agora o jogo começa com a opção de saves de 32 bits marcada ao usar o Java de 32 bits. Se você estava não estava tendo problemas com para salvar/carregar e os saves sumirem após reinstalar o jogo, basta ir na janela de opções e desmarcar "save de 32 bits".
+
+Em computadores de 32 bits, ou de 64 bits dando erros nos saves, é recomendado jogar com menos ligas selecionadas e não instalar muitos patches de estaduais.
+
+Diego Sales
+56058327
+
+Desconhecido
+Guilherme Leandro dos Santos
+23835122
